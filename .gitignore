@@ -34,3 +34,7 @@
 *.out
 *.app
 *.depend
+*.layout
+*.depend
+*.layout
+cpplearning.depend

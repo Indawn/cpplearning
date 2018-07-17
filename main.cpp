@@ -34,9 +34,9 @@ int main()
     cout << hex << 15 << endl;
 #endif
     //runExe("msvctest");
-    //outputFile_vector("extern_function.cpp", 1);
+    outputFile_vector("extern_function.cpp", 1);
     //outputFile_vector("extern_function.cpp", 0);
-    //outputFile_getline("main.cpp", "ofstream_out.cpp");
+    outputFile_getline("main.cpp", "ofstream_out.cpp");
     /*
     cout << "the number of words in "<<"wxtren_dunvtion.cpp is : "
          << outputWords_vector("extern_function.cpp") << endl;
