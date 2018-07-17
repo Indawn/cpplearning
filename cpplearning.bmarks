@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="0">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="60,79,100,122,185,508,520,560,583,598,677,700,946,978,986,1013,1176,1575" />
+		<Book_Marks positions="80" />
+	</File>
+	<File name="extern_function.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="385" topLine="0" />
+		<BrowseMarks positions="2665,2695,2748,2804,1476,2449,1684,1699,1766,2140,2240,2258,2380,2409,2414,2451,2558,2593,2627,2634" />
+		<Book_Marks positions="402,650" />
+	</File>
+</BrowseTracker_layout_file>

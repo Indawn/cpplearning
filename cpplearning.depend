@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1531467815 source:c:\users\william\documents\codeblocksproject\cpplearning\main.cpp
+	"Shape.h"
+	"Circle.h"
+	"Line.h"
+	<string>
+	<iostream>
+
+1531456347 c:\users\william\documents\codeblocksproject\cpplearning\include\shape.h
+
+1531133975 c:\users\william\documents\codeblocksproject\cpplearning\include\circle.h
+	"Shape.h"
+
+1531133314 c:\users\william\documents\codeblocksproject\cpplearning\include\line.h
+	"Shape.h"
+
+1531133927 source:c:\users\william\documents\codeblocksproject\cpplearning\src\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1531317397 source:c:\users\william\documents\codeblocksproject\cpplearning\src\line.cpp
+	"Line.h"
+	<iostream>
+
+1531318636 source:c:\users\william\documents\codeblocksproject\cpplearning\src\shape.cpp
+	"Shape.h"
+	<iostream>
+
+1531468953 source:c:\users\william\documents\codeblocksproject\cpplearning\extern_function.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<vector>
+
